@@ -12,5 +12,6 @@ public class program3 {
              System.out.println("but not by 10"); 
      }else 
         System.out.println("given number is not divisible by 5 "); 
-    }
+      sc.close();
+      }
 }

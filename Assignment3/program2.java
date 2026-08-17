@@ -12,6 +12,6 @@ public class program2{
        System.out.println("largest number is: "+b); 
     else
      System.out.println("largest number is: "+c);
-     
+     sc.close();
     }
 }

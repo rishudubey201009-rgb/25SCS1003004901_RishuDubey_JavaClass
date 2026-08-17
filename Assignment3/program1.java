@@ -14,8 +14,7 @@ public class program1 {
              System.out.println("given number "+a+" is negative number ");
         else
             System.out.println("given number "+a+" is zero ");
-         
-
+        sc.close();
     }
     
 }
