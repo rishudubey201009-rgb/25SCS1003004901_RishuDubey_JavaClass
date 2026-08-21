@@ -20,7 +20,6 @@ public class Program4 {
           } 
         sc.close();
           }
-
      }
 
 
